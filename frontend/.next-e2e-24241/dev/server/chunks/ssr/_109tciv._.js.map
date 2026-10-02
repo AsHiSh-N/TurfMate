@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": [],
+  "sections": [
+    {"offset": {"line": 4, "column": 0}, "map": {"version":3,"sources":["file:///home/ashish/Documents/turf/frontend/app/layout.tsx"],"sourcesContent":["import './globals.css';\nimport type { Metadata } from 'next';\nexport const metadata: Metadata={title:'TurfMate | Book your game',description:'Discover and book sports venues.'};\nexport default function Layout({children}:{children:React.ReactNode}){return <html lang=\"en\"><body>{children}</body></html>}\n"],"names":["metadata","title","description","Layout","children","lang"],"mappings":";;;;;;;;;AAEO,MAAMA,WAAmB;IAACC,OAAM;IAA4BC,aAAY;AAAkC;AAClG,SAASC,OAAO,EAACC,QAAQ,EAA4B;IAAE,qBAAO,8OAAC;QAAKC,MAAK;kBAAK,cAAA,8OAAC;sBAAMD;;;;;;;;;;;AAAuB"}},
+    {"offset": {"line": 41, "column": 0}, "map": {"version":3,"sources":["file:///home/ashish/Documents/turf/frontend/node_modules/next/src/server/route-modules/app-page/vendored/rsc/react-jsx-dev-runtime.ts"],"sourcesContent":["module.exports = (\n  require('../../module.compiled') as typeof import('../../module.compiled')\n).vendored['react-rsc']!.ReactJsxDevRuntime\n"],"names":["module","exports","require","vendored","ReactJsxDevRuntime"],"mappings":"AAAAA,OAAOC,OAAO,GACZC,QAAQ,4HACRC,QAAQ,CAAC,YAAY,CAAEC,kBAAkB","ignoreList":[0]}}]
+}

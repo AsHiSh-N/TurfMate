@@ -1,0 +1,12 @@
+{"timestamp":"00:00:00.718","source":"Server","level":"LOG","message":""}
+{"timestamp":"00:00:00.718","source":"Server","level":"LOG","message":"  We detected TypeScript in your project and reconfigured your tsconfig.json file for you."}
+{"timestamp":"00:00:00.718","source":"Server","level":"LOG","message":"  The following suggested values were added to your tsconfig.json. These values can be changed to fit your project's needs:\n"}
+{"timestamp":"00:00:00.719","source":"Server","level":"LOG","message":"  \t- include was updated to add '.next-e2e-23854/types/**/*.ts'"}
+{"timestamp":"00:00:00.719","source":"Server","level":"LOG","message":"  \t- include was updated to add '.next-e2e-23854/dev/types/**/*.ts'"}
+{"timestamp":"00:00:00.719","source":"Server","level":"LOG","message":""}
+{"timestamp":"00:00:00.829","source":"Server","level":"LOG","message":""}
+{"timestamp":"00:00:04.711","source":"Browser","level":"INFO","message":"Download the React DevTools for a better development experience: https://react.dev/link/react-devtools"}
+{"timestamp":"00:00:05.935","source":"Browser","level":"INFO","message":"Download the React DevTools for a better development experience: https://react.dev/link/react-devtools"}
+{"timestamp":"00:00:06.510","source":"Browser","level":"INFO","message":"Download the React DevTools for a better development experience: https://react.dev/link/react-devtools"}
+{"timestamp":"00:00:07.335","source":"Browser","level":"INFO","message":"Download the React DevTools for a better development experience: https://react.dev/link/react-devtools"}
+{"timestamp":"00:00:08.897","source":"Browser","level":"INFO","message":"Download the React DevTools for a better development experience: https://react.dev/link/react-devtools"}
